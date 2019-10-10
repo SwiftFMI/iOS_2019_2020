@@ -13,6 +13,8 @@ iOS Course at FMI - Sofia University
 
 [Това е анкетата](https://forms.gle/4rEbAU3Hm4dLQyjQ6), която трябва да попълните, ако ще посещавате курса.
 
+[Това е форма](https://forms.gle/j3BrZCU2GPdjvjKTA), която трябва да попълните, ако искате да ви домавим в Apple Developer програмата на СУ.
+
 ## Лекции
 
 Всички лекции може да намерите на следния [адрес](lectures/).
