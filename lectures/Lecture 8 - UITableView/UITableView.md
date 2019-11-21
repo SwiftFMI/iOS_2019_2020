@@ -1,16 +1,25 @@
 #UITableView
 --
 
-##Съдържание
-###0. Предварително нужни знания (преговор)
-###1. Терминология и видове UITableView
-###2. Как да използваме UITableView?
-###3. IndexPath
-###4. UITableViewDataSource
-###5. UITableViewDelegate
-###6. UITableViewCell
+##Съдържание  
 
-##Предварително нужни знания
+###0. Предварително нужни знания (преговор) 
+
+###1. Терминология и видове UITableView  
+
+###2. Как да използваме UITableView?  
+
+###3. IndexPath  
+
+###4. UITableViewDataSource  
+
+###5. UITableViewDelegate  
+
+###6. UITableViewCell  
+
+
+##Предварително нужни знания  
+
 ####1. Протоколи
 
 ####2. Design pattern-и (по-конкретно Delegate, MVC)
