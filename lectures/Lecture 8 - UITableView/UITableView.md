@@ -1,30 +1,30 @@
-#UITableView
+# UITableView
 --
 
-##Съдържание  
+## Съдържание  
 
-###0. Предварително нужни знания (преговор) 
+### 0. Предварително нужни знания (преговор) 
 
-###1. Терминология и видове UITableView  
+### 1. Терминология и видове UITableView  
 
-###2. Как да използваме UITableView?  
+### 2. Как да използваме UITableView?  
 
-###3. IndexPath  
+### 3. IndexPath  
 
-###4. UITableViewDataSource  
+### 4. UITableViewDataSource  
 
-###5. UITableViewDelegate  
+### 5. UITableViewDelegate  
 
-###6. UITableViewCell  
+### 6. UITableViewCell  
 
 
-##Предварително нужни знания  
+## Предварително нужни знания  
 
-####1. Протоколи
+#### 1. Протоколи
 
-####2. Design pattern-и (по-конкретно Delegate, MVC)
+#### 2. Design pattern-и (по-конкретно Delegate, MVC)
 
-####3. UIView
+#### 3. UIView
 
 ## Какво е [UITableView](https://developer.apple.com/documentation/uikit/uitableview)?
 ```swift
@@ -33,7 +33,7 @@ class UITableView : UIScrollView
 
 `UITableView` или казано по друг начин таблиците са един от най-важните компоненти в iOS приложенията. Използват се за визуализиране на списък от елементи, които могат да бъдат скролирани, като по този начин ни позволяват да покажем по-голямо количество информация от колкото се побира на екрана на устройството.
 
-###Елементи на `UITableView`
+### Елементи на `UITableView`
 - `Rows` - редове. Всеки ред на таблицата изобразява част от съдържанието на приложението ни. 
 - `Sections` - секции. Помагат ни да групираме редовете на таблицата  смислово, като по този начин улесняваме работата на потребителя.
 - `Headers` - хедъри. Те биват два вида - `table view header` и `section header`. `Table view header` винаги се вижда в горната част на таблицата, а `section header` за конкретна секция е видим докато съдържанието на секцията е видимо, след което бива заменен с `section header`-а на следващата секция.
@@ -52,34 +52,34 @@ class UITableView : UIScrollView
 - Таблици, в които предварително знаем какво ще бъде съдържанието на всяка клетка, например в `Settings` приложението. При този тип таблици директно попълваме данните в Storyboard-а на приложението ни, като е важно да отбележим, че можем да използваме `статична` таблица само в `UITableViewController`   
 <img src = "assets/StaticTableView.png" alt="drawing" width="250"> 
 
-####2. `Динамични (Dynamic properties)` 
+#### 2. `Динамични (Dynamic properties)` 
 - Таблици, в които знаем как ще изглеждат редовете, но не знаем какво ще бъде съдържанието им. В този случай използваме така наречените `клетки прототипи`, като на всеки такъв прототип трябва да дадем уникален идентификатор за да можем да го инстанцираме чрез метода `dequeueReusableCell(withIdentifier:)`.  
 <img src = "assets/DynamicTableView.png" alt="drawing" width="250"> 
 
 ###Според **представянето** си таблиците са три вида:
 
-####1. `Обикновени(Plain)` 
+#### 1. `Обикновени(Plain)` 
 - Хедърите и футърите на таблицата изглеждат като разделители между секциите и са подравнени с клетките.  
 <img src = "assets/TableViewStylePlain.png" alt="drawing" width="250">  
 
 
-####2. `Групирани(grouped)` 
+#### 2. `Групирани(grouped)` 
 - Помежду секциите има разстояние (padding).  
 <img src = "assets/TableViewStyleGrouped.png" alt="drawing" width="250">  
 
-####3. `Вложено групирани(Inset grouped)` 
+#### 3. `Вложено групирани(Inset grouped)` 
 - Подобно на групираните таблици, вложено групираните също имат разстояние между секциите, но разликата е че съдържанието е отместено навътре.   
 <img src = "assets/TableViewStyleInsetGrouped.png" alt="drawing" width="240">
 
-##Как да използваме `UITableView`?
+## Как да използваме `UITableView`?
 Най-лесния начин да добавите table view към вашия интерфейс е като добавите `UITableViewController` обект във вашия storyboard. Xcode автоматично създава нова сцена съдържаща `UIViewController`, в който има `UITableView`, които ние можем да конфирурираме и използваме. При промяна на данните винаги трябва да викаме метода `reloadData()` на `UITableView`.
 
 ![Interface builder](assets/InterfaceBuilder.png)
 
-###Как да осигурим данните на `UITableView`?
+### Как да осигурим данните на `UITableView`?
 `UIViewController` класа, който съдържа `UITableView` трябва да имплементират два протокола - `UITableViewDataSource` и `UITableViewDelegate`, но преди да се запознаем с тях трябва да знаем какво е `IndexPath`.
 
-###[IndexPath](https://developer.apple.com/documentation/foundation/indexpath)
+### [IndexPath](https://developer.apple.com/documentation/foundation/indexpath)
 ```swift
 struct IndexPath
 ```
@@ -96,7 +96,7 @@ IndexPath(row: Int, section: Int)
 
 <img src = "assets/TableViewIndexPaths.png" alt="drawing" width="300" border="1">  
 
-##[UITableViewDataSource](https://developer.apple.com/documentation/uikit/uitableviewdatasource)
+## [UITableViewDataSource](https://developer.apple.com/documentation/uikit/uitableviewdatasource)
 ```swift
 weak var dataSource: UITableViewDataSource? { get set }
 ```
@@ -149,7 +149,7 @@ public protocol UITableViewDataSource : NSObjectProtocol {
 }
 ```
 
-##[UITableViewDelegate](https://developer.apple.com/documentation/uikit/uitableviewdelegate)  
+## [UITableViewDelegate](https://developer.apple.com/documentation/uikit/uitableviewdelegate)  
 ```swift
 weak var delegate: UITableViewDelegate? { get set }
 ```
@@ -209,7 +209,7 @@ public protocol UITableViewDelegate : UIScrollViewDelegate {
 }
 ```  
 
-##[UITableViewCell](https://developer.apple.com/documentation/uikit/uitableviewcell)
+## [UITableViewCell](https://developer.apple.com/documentation/uikit/uitableviewcell)
 ```class UITableViewCell : UIView```
 
 `UITableViewCell` е специализиран обект, наследник на `UIView`, който ни позволява да изобразим данните на един ред от таблиците в приложението ни. Всяка таблица преизползва клетките си посредством уникалните идентифицатори, които трябва да дадем на клеткитe. Когато се извика метода `tableView(_:cellForRowAt:)` използваме `dequeueReusableCell(withIdentifier:)` за да инстанцираме обект от тип `UITableViewCell`, преизползвайки клетките, които вече не са видими на екрана (при скролиране).
@@ -242,7 +242,7 @@ class MyTableViewCell: UITableViewCell { ... }
 
 Можем да персонализираме клетката по същия начин както всички останали наследници на `UIView` и след това да я използваме като елемент на таблицата.
 
-##Ресурси
+## Ресурси
 
 - [SwiftFMI](https://github.com/swiftfmi)
 
