@@ -1,0 +1,239 @@
+{
+	"predictions": [{
+		"name": "BEST PICTURE",
+		"nominees": [{
+			"movie": {
+				"title": "ONCE UPON A TIME…IN HOLLYWOOD",
+				"poster": "once_upon_a_time_in_hollywood",
+				"storyline": "Quentin Tarantino's Once Upon a Time... in Hollywood visits 1969 Los Angeles, where everything is changing, as TV star Rick Dalton (Leonardo DiCaprio) and his longtime stunt double Cliff Booth (Brad Pitt) make their way around an industry they hardly recognize anymore. The ninth film from the writer-director features a large ensemble cast and multiple storylines in a tribute to the final moments of Hollywood's golden age."
+			},
+			"sentiment": "neutral"
+		},{
+			"movie": {
+				"title": "THE IRISHMAN",
+				"poster": "the_irishman",
+				"storyline": "Frank \"The Irishman\" Sheeran is a man with a lot on his mind. The former labor union high official and hitman, learned to kill serving in Italy during the Second World War. He now looks back on his life and the hits that defined his mob career, maintaining connections with the Bufalino crime family. In particular, the part he claims to have played in the disappearance of his life-long friend, Jimmy Hoffa, the former president of the International Brotherhood of Teamsters, who mysteriously vanished in late July 1975 at the age of 62."
+			},
+			"sentiment": "neutral"
+		},{
+			"movie": {
+				"title": "MARRIAGE STORY",
+				"poster": "marriage_story",
+				"storyline": "MARRIAGE STORY is Academy Award nominated filmmaker Noah Baumbach's incisive and compassionate look at a marriage breaking up and a family staying together. The film stars Scarlett Johansson and Adam Driver. Laura Dern, Alan Alda, and Ray Liotta co-star."
+			},
+			"sentiment": "up"
+		},{
+			"movie": {
+				"title": "JOJO RABBIT",
+				"poster": "jojo_rabbit",
+				"storyline": "A World War II satire that follows a lonely German boy named Jojo (Roman Griffin Davis) whose world view is turned upside down when he discovers his single mother (Scarlett Johansson) is hiding a young Jewish girl (Thomasin McKenzie) in their attic. Aided only by his idiotic imaginary friend, Adolf Hitler (Taika Waititi), Jojo must confront his blind nationalism."
+			},
+			"sentiment": "neutral"
+		},{
+			"movie": {
+				"title": "PARASITE",
+				"poster": "parasite",
+				"storyline": "Jobless, penniless, and, above all, hopeless, the unmotivated patriarch, Ki-taek, and his equally unambitious family--his supportive wife, Chung-sook; his cynical twentysomething daughter, Ki-jung, and his college-age son, Ki-woo--occupy themselves by working for peanuts in their squalid basement-level apartment. Then, by sheer luck, a lucrative business proposition will pave the way for an insidiously subtle scheme, as Ki-woo summons up the courage to pose as an English tutor for the teenage daughter of the affluent Park family. Now, the stage seems set for an unceasing winner-take-all class war. How does one get rid of a parasite?"
+			},
+			"sentiment": "neutral"
+		},{
+			"movie": {
+				"title": "1917",
+				"poster": "1917",
+				"storyline": "Schofield and Blake, two young British soldiers during the First World War, are given a seemingly impossible mission. With time against them, they must deliver a message, deep in enemy territory, that will stop their own men, and Blake's own brother, walking straight into a deadly trap."
+			},
+			"sentiment": "up"
+		},{
+			"movie": {
+				"title": "JOKER",
+				"poster": "joker",
+				"storyline": "Joker centers around an origin of the iconic arch nemesis and is an original, standalone story not seen before on the big screen. Todd Phillips' exploration of Arthur Fleck (Joaquin Phoenix), a man disregarded by society is not only a gritty character study, but also a broader cautionary tale."
+			},
+			"sentiment": "neutral"
+		},{
+			"movie": {
+				"title": "THE FAREWELL",
+				"poster": "the_farewell",
+				"storyline": "A headstrong Chinese-American woman returns to China when her beloved grandmother is diagnosed with terminal cancer. Billi struggles with her family's decision to keep grandma in the dark about her own illness as they all stage an impromptu wedding to see grandma one last time."
+			},
+			"sentiment": "neutral"
+		}]
+	},
+	{
+		"name": "BEST DIRECTOR",
+		"nominees": [{
+			"movie": {
+				"title": "ONCE UPON A TIME…IN HOLLYWOOD",
+				"poster": "once_upon_a_time_in_hollywood",
+				"storyline": "Quentin Tarantino's Once Upon a Time... in Hollywood visits 1969 Los Angeles, where everything is changing, as TV star Rick Dalton (Leonardo DiCaprio) and his longtime stunt double Cliff Booth (Brad Pitt) make their way around an industry they hardly recognize anymore. The ninth film from the writer-director features a large ensemble cast and multiple storylines in a tribute to the final moments of Hollywood's golden age."
+			},
+			"sentiment": "neutral",
+			"recepient": {
+				"name": "Quentin Tarantino",
+				"picture": "quentin_tarantino"
+			}
+		},{
+			"movie": {
+				"title": "THE IRISHMAN",
+				"poster": "the_irishman",
+				"storyline": "Frank \"The Irishman\" Sheeran is a man with a lot on his mind. The former labor union high official and hitman, learned to kill serving in Italy during the Second World War. He now looks back on his life and the hits that defined his mob career, maintaining connections with the Bufalino crime family. In particular, the part he claims to have played in the disappearance of his life-long friend, Jimmy Hoffa, the former president of the International Brotherhood of Teamsters, who mysteriously vanished in late July 1975 at the age of 62."
+			},
+			"sentiment": "neutral",
+			"recepient": {
+				"name": "Martin Scorsese",
+				"picture": "martin_scorsese"
+			}
+		},{
+			"movie": {
+				"title": "PARASITE",
+				"poster": "parasite",
+				"storyline": "Jobless, penniless, and, above all, hopeless, the unmotivated patriarch, Ki-taek, and his equally unambitious family--his supportive wife, Chung-sook; his cynical twentysomething daughter, Ki-jung, and his college-age son, Ki-woo--occupy themselves by working for peanuts in their squalid basement-level apartment. Then, by sheer luck, a lucrative business proposition will pave the way for an insidiously subtle scheme, as Ki-woo summons up the courage to pose as an English tutor for the teenage daughter of the affluent Park family. Now, the stage seems set for an unceasing winner-take-all class war. How does one get rid of a parasite?"
+			},
+			"sentiment": "neutral",
+			"recepient": {
+				"name": "Bong Joon-ho",
+				"picture": "bong_joon-ho"
+			}
+		},{
+			"movie": {
+				"title": "1917",
+				"poster": "1917",
+				"storyline": "Schofield and Blake, two young British soldiers during the First World War, are given a seemingly impossible mission. With time against them, they must deliver a message, deep in enemy territory, that will stop their own men, and Blake's own brother, walking straight into a deadly trap."
+			},
+			"sentiment": "up",
+			"recepient": {
+				"name": "Sam Mendes",
+				"picture": "sam_mendes"
+			}
+		},{
+			"movie": {
+				"title": "MARRIAGE STORY",
+				"poster": "marriage_story",
+				"storyline": "MARRIAGE STORY is Academy Award nominated filmmaker Noah Baumbach's incisive and compassionate look at a marriage breaking up and a family staying together. The film stars Scarlett Johansson and Adam Driver. Laura Dern, Alan Alda, and Ray Liotta co-star."
+			},
+			"sentiment": "down",
+			"recepient": {
+				"name": "Noah Baumbach",
+				"picture": "noah_baumbach"
+			}
+		}]
+	},
+	{
+		"name": "BEST ACTOR",
+		"nominees": [{
+			"movie": {
+				"title": "JOKER",
+				"poster": "joker",
+				"storyline": "Joker centers around an origin of the iconic arch nemesis and is an original, standalone story not seen before on the big screen. Todd Phillips' exploration of Arthur Fleck (Joaquin Phoenix), a man disregarded by society is not only a gritty character study, but also a broader cautionary tale."
+			},
+			"sentiment": "up",
+			"recepient": {
+				"name": "Joaquin Phoenix",
+				"picture": "joaquin_phoenix"
+			}
+		},{
+			"movie": {
+				"title": "MARRIAGE STORY",
+				"poster": "marriage_story",
+				"storyline": "MARRIAGE STORY is Academy Award nominated filmmaker Noah Baumbach's incisive and compassionate look at a marriage breaking up and a family staying together. The film stars Scarlett Johansson and Adam Driver. Laura Dern, Alan Alda, and Ray Liotta co-star."
+			},
+			"sentiment": "down",
+			"recepient": {
+				"name": "Adam Driver",
+				"picture": "adam_driver"
+			}
+		},{
+			"movie": {
+				"title": "PAIN AND GLORY",
+				"poster": "pain_and_glory",
+				"storyline": "The protagonist of \"Pain and Glory\" was at the decline of his career. The man involuntarily looks back into the past, and a stream of vivid memories falls upon him. He recalls such moments from his youth as tender feelings for his mother, love and separation, the search for happiness and success. All this leads the master of cinema to important thoughts about life and art, because this is the most important thing for him."
+			},
+			"sentiment": "up",
+			"recepient": {
+				"name": "Antonio Banderas",
+				"picture": "antonio_banderas"
+			}
+		},{
+			"movie": {
+				"title": "THE IRISHMAN",
+				"poster": "the_irishman",
+				"storyline": "Frank \"The Irishman\" Sheeran is a man with a lot on his mind. The former labor union high official and hitman, learned to kill serving in Italy during the Second World War. He now looks back on his life and the hits that defined his mob career, maintaining connections with the Bufalino crime family. In particular, the part he claims to have played in the disappearance of his life-long friend, Jimmy Hoffa, the former president of the International Brotherhood of Teamsters, who mysteriously vanished in late July 1975 at the age of 62."
+			},
+			"sentiment": "down",
+			"recepient": {
+				"name": "Robert De Niro",
+				"picture": "robert_de_niro"
+			}
+		},{
+			"movie": {
+				"title": "ONCE UPON A TIME…IN HOLLYWOOD",
+				"poster": "once_upon_a_time_in_hollywood",
+				"storyline": "Quentin Tarantino's Once Upon a Time... in Hollywood visits 1969 Los Angeles, where everything is changing, as TV star Rick Dalton (Leonardo DiCaprio) and his longtime stunt double Cliff Booth (Brad Pitt) make their way around an industry they hardly recognize anymore. The ninth film from the writer-director features a large ensemble cast and multiple storylines in a tribute to the final moments of Hollywood's golden age."
+			},
+			"sentiment": "neutral",
+			"recepient": {
+				"name": "Leonardo DiCaprio",
+				"picture": "leonardo_di_caprio"
+			}
+		}]
+	},
+	{
+		"name": "BEST ACTRESS",
+		"nominees": [{
+			"movie": {
+				"title": "JUDY",
+				"poster": "judy",
+				"storyline": "Legendary performer Judy Garland arrives in London in the winter of 1968 to perform a series of sold-out concerts."
+			},
+			"sentiment": "neutral",
+			"recepient": {
+				"name": "Renée Zellweger",
+				"picture": "renee_zellweger"
+			}
+		},{
+			"movie": {
+				"title": "MARRIAGE STORY",
+				"poster": "marriage_story",
+				"storyline": "MARRIAGE STORY is Academy Award nominated filmmaker Noah Baumbach's incisive and compassionate look at a marriage breaking up and a family staying together. The film stars Scarlett Johansson and Adam Driver. Laura Dern, Alan Alda, and Ray Liotta co-star."
+			},
+			"sentiment": "neutral",
+			"recepient": {
+				"name": "Scarlett Johansson",
+				"picture": "scarlett_johansson"
+			}
+		},{
+			"movie": {
+				"title": "LITTLE WOMEN",
+				"poster": "little_women",
+				"storyline": "Four sisters come of age in America in the aftermath of the Civil War."
+			},
+			"sentiment": "neutral",
+			"recepient": {
+				"name": "Saorise Ronan",
+				"picture": "saorise_ronan"
+			}
+		},{
+			"movie": {
+				"title": "CLEMENCY",
+				"poster": "clemency",
+				"storyline": "Years of carrying out death row executions have taken a toll on prison warden Bernadine Williams. As she prepares to execute another inmate, Bernadine must confront the psychological and emotional demons her job creates, ultimately connecting her to the man she is sanctioned to kill."
+			},
+			"sentiment": "up",
+			"recepient": {
+				"name": "Alfre Woodard",
+				"picture": "alfre_woodard"
+			}
+		},{
+			"movie": {
+				"title": "US",
+				"poster": "us",
+				"storyline": "In order to get away from their busy lives, the Wilson family takes a vacation to Santa Cruz, California with the plan of spending time with their friends, the Tyler family. On a day at the beach, their young son Jason almost wanders off, causing his mother Adelaide to become protective of her family. That night, four mysterious people break into Adelaide's childhood home where they're staying. The family is shocked to find out that the intruders look like them, only with grotesque appearances."
+			},
+			"sentiment": "down",
+			"recepient": {
+				"name": "Lupita Nyong’o",
+				"picture": "lupita_nyongo"
+			}
+		}]
+	}]
+}
