@@ -1,11 +1,11 @@
-Team A
+Team A - MovieDBApp
 
 | FN  | Github| Име|
 |-----|----:| ---|
 |71764||Damian Boychev ||45543|| Ana Petrova|
 |62061||Огнянка Бонева	|
 
-Team B
+Team B - FitnessApp
 
 | FN  | Github | Име|
 |-----|----:| ---|
@@ -13,15 +13,15 @@ Team B
 |81461|| Росиана Ланджева |
 |81894||Dimitar Penkov|
 
-Team C
+Team C - NewsApp
 
 | FN  | Github | Име|
 |-----|----:| ---|
-|62065||Nikola Bratanov|
+
 |61990|| Стефан Ламбов |
 |81770||Emanuil Gospodinov|
 
-Team D
+Team D - iOSCourseApp
 
 | FN  | Github | Име|
 |-----|----:| ---|
@@ -30,7 +30,7 @@ Team D
 |81524||Demetra Staykova|
 
 
-Team E
+Team E - GameLoggerApp
 
 | FN  | Github | Име|
 |-----|----:| ---|
@@ -38,7 +38,7 @@ Team E
 |62096|| Стефан Георгиев |
 |81748||Julieta Ignatova |
 
-Team F
+Team F - CoachAssistantApp
 
 | FN  | Github | Име|
 |-----|----:| ---|
@@ -46,12 +46,13 @@ Team F
 |81866||Nikola Vakarelski	|
 |45560|| Miroslav Parapanov|
 
-Team G
+Team G - MemeApp
 
 | FN  | Github | Име|
 |-----|----:| ---|
 |81738|| Ралица Добрева |
 |62080|| Виктория Гунчева |
+|62065||Nikola Bratanov|
 
 
 Хора без отбори
@@ -59,8 +60,8 @@ Team G
 
 
 |# | FN  | Github | Отбор|
-|----|-----|----:|---|
-|1|81399| | |
+|----|-----|:----:|:---:|
+|1|81399| х| х|
 |2|62279| | |
 |3|62289| | |
 |4|62323| | |
