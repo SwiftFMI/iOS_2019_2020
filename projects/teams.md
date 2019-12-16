@@ -4,14 +4,14 @@ Team A - MovieDBApp
 |-----|----:| ---|
 |71764||Damian Boychev|
 |45543||Ana Petrova|
-|62061|oboneva|Огнянка Бонева|
+|62061|[oboneva](https://github.com/oboneva)|Огнянка Бонева|
 
 Team B - FitnessApp
 
 | FN  | Github | Име|
 |-----|----:| ---|
 |71827|| Nevena Kirova|
-|81461|rossianaladzheva|Росиана Ланджева|
+|81461|[rossianaladzheva](https://github.com/rossianaladzheva)|Росиана Ланджева|
 |81894||Dimitar Penkov|
 
 Team C - NewsApp
@@ -27,16 +27,16 @@ Team D - iOSCourseApp
 |-----|----:| ---|
 |71754||Цветослав Васев|
 |71803||Виолета Илиева|
-|81524|demschoy|Demetra Staykova|
+|81524|[demschoy](https://github.com/demschoy)|Demetra Staykova|
 
 
 Team E - GameLoggerApp
 
 | FN  | Github | Име|
 |-----|----:| ---|
-|81901|Rynkx|Dimitar Dimitrov|
+|81901|[Rynkx](https://github.com/Rynkx)|Dimitar Dimitrov|
 |62096||Стефан Георгиев|
-|81748|JulietaIgnatova|Julieta Ignatova |
+|81748|[JulietaIgnatova](https://github.com/JulietaIgnatova)|Julieta Ignatova |
 
 Team F - CoachAssistantApp
 
