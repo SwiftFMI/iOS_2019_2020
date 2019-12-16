@@ -2,7 +2,8 @@ Team A - MovieDBApp
 
 | FN  | Github| Име|
 |-----|----:| ---|
-|71764||Damian Boychev ||45543|| Ana Petrova|
+|71764||Damian Boychev |
+|45543|| Ana Petrova|
 |62061||Огнянка Бонева	|
 
 Team B - FitnessApp
@@ -17,7 +18,6 @@ Team C - NewsApp
 
 | FN  | Github | Име|
 |-----|----:| ---|
-
 |61990|| Стефан Ламбов |
 |81770||Emanuil Gospodinov|
 
