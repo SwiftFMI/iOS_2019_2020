@@ -1,36 +1,36 @@
-Team A - MovieDBApp
+Team A - MovieDBApp - [Github repo](https://github.com/SwiftFMI/2019_prj_MovieDBApp)
 
 | FN  | Github| Име|
 |-----|----:| ---|
-|71764||Damian Boychev|
+|71764|[destroierdam](https://github.com/destroierdam)|Damian Boychev|
 |45543||Ana Petrova|
 |62061|[oboneva](https://github.com/oboneva)|Огнянка Бонева|
 
-Team B - FitnessApp
+Team B - FitnessApp - [Github repo](https://github.com/SwiftFMI/2019_prj_FitnessApp)
 
 | FN  | Github | Име|
 |-----|----:| ---|
 |71827|| Nevena Kirova|
 |81461|[rossianaladzheva](https://github.com/rossianaladzheva)|Росиана Ланджева|
-|81894||Dimitar Penkov|
+|81894|[dimitarpenkov](https://github.com/dimitarpenkov)|Dimitar Penkov|
 
-Team C - NewsApp
+Team C - NewsApp - [Github repo](https://github.com/SwiftFMI/2019_prj_NewsApp)
 
 | FN  | Github | Име|
 |-----|----:| ---|
 |61990||Стефан Ламбов|
-|81770||Emanuil Gospodinov|
+|81770|[gospodinove](https://github.com/gospodinove)|Emanuil Gospodinov|
 
-Team D - iOSCourseApp
+Team D - iOSCourseApp - [Github repo](https://github.com/SwiftFMI/2019_prj_iOSCourseApp)
 
 | FN  | Github | Име|
 |-----|----:| ---|
-|71754||Цветослав Васев|
+|71754|[TsvetoslavVasev](https://github.com/TsvetoslavVasev)|Цветослав Васев|
 |71803||Виолета Илиева|
 |81524|[demschoy](https://github.com/demschoy)|Demetra Staykova|
 
 
-Team E - GameLoggerApp
+Team E - GameLoggerApp - [Github repo](https://github.com/SwiftFMI/2019_prj_GameLoggerApp)
 
 | FN  | Github | Име|
 |-----|----:| ---|
@@ -38,7 +38,7 @@ Team E - GameLoggerApp
 |62096||Стефан Георгиев|
 |81748|[JulietaIgnatova](https://github.com/JulietaIgnatova)|Julieta Ignatova |
 
-Team F - CoachAssistantApp
+Team F - CoachAssistantApp - [Github repo](https://github.com/SwiftFMI/2019_prj_CoachAssistantApp)
 
 | FN  | Github | Име|
 |-----|----:| ---|
@@ -46,13 +46,13 @@ Team F - CoachAssistantApp
 |81866||Nikola Vakarelski|
 |45560||Miroslav Parapanov|
 
-Team G - MemeApp
+Team G - MemeApp - [Github repo](https://github.com/SwiftFMI/2019_prj_MemeApp)
 
 | FN  | Github | Име|
 |-----|----:| ---|
-|81738||Ралица Добрева|
-|62080||Виктория Гунчева|
-|62065||Nikola Bratanov|
+|81738|[rtdobreva](https://github.com/rtdobreva)|Ралица Добрева|
+|62080|[VictoryaG97](https://github.com/VictoryaG97)|Виктория Гунчева|
+|62065|[nbratanov](https://github.com/nbratanov)|Nikola Bratanov|
 
 
 Хора без отбори
@@ -69,6 +69,6 @@ Team G - MemeApp
 |6|62074| | |
 |7|81576| | |
 |8|81911| | |
-|9|81908| | |
+|9|81908|[ognyanstoimenov](https://github.com/ognyanstoimenov)| |
 |10|81684| | |
 |11|81877| | |
