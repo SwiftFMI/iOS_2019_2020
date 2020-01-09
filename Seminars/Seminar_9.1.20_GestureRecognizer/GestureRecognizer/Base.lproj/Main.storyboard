@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="15702" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15704"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="GestureRecognizer" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="iphone_11" translatesAutoresizingMaskIntoConstraints="NO" id="tkX-OG-ikB">
+                                <rect key="frame" x="117" y="84" width="180" height="180"/>
+                                <gestureRecognizers/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="tkX-OG-ikB" secondAttribute="height" multiplier="1:1" id="21W-Dc-dZu"/>
+                                    <constraint firstAttribute="width" constant="180" id="jVN-gJ-jaq"/>
+                                </constraints>
+                                <connections>
+                                    <outletCollection property="gestureRecognizers" destination="2tz-XH-sWU" appends="YES" id="MJT-Bm-lGt"/>
+                                </connections>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="iphone_xr" translatesAutoresizingMaskIntoConstraints="NO" id="6hs-JZ-GbU">
+                                <rect key="frame" x="87" y="444" width="240" height="128"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <gestureRecognizers/>
+                            </imageView>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="kPx-4k-qqe">
+                                <rect key="frame" x="87" y="752" width="240" height="60"/>
+                                <subviews>
+                                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="J38-7P-y0k">
+                                        <rect key="frame" x="0.0" y="0.0" width="60" height="60"/>
+                                        <subviews>
+                                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="right_arrow" translatesAutoresizingMaskIntoConstraints="NO" id="b20-CS-qSk">
+                                                <rect key="frame" x="0.0" y="0.0" width="60" height="60"/>
+                                            </imageView>
+                                        </subviews>
+                                        <color key="backgroundColor" systemColor="systemRedColor" red="1" green="0.23137254900000001" blue="0.18823529410000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" secondItem="J38-7P-y0k" secondAttribute="height" multiplier="1:1" id="5aJ-X2-XsH"/>
+                                            <constraint firstItem="b20-CS-qSk" firstAttribute="centerX" secondItem="J38-7P-y0k" secondAttribute="centerX" id="EzQ-W9-WNq"/>
+                                            <constraint firstItem="b20-CS-qSk" firstAttribute="height" secondItem="J38-7P-y0k" secondAttribute="height" id="W3i-em-pY3"/>
+                                            <constraint firstItem="b20-CS-qSk" firstAttribute="width" secondItem="J38-7P-y0k" secondAttribute="width" id="Web-Qo-c5A"/>
+                                            <constraint firstItem="b20-CS-qSk" firstAttribute="centerY" secondItem="J38-7P-y0k" secondAttribute="centerY" id="Xhk-5q-ano"/>
+                                        </constraints>
+                                    </view>
+                                </subviews>
+                                <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstItem="J38-7P-y0k" firstAttribute="leading" secondItem="kPx-4k-qqe" secondAttribute="leading" id="Uag-cM-5Vj"/>
+                                    <constraint firstItem="J38-7P-y0k" firstAttribute="height" secondItem="kPx-4k-qqe" secondAttribute="height" id="XaE-EC-kJv"/>
+                                    <constraint firstAttribute="height" constant="60" id="kcZ-Q2-rCD"/>
+                                    <constraint firstItem="J38-7P-y0k" firstAttribute="centerY" secondItem="kPx-4k-qqe" secondAttribute="centerY" id="y2d-m1-Abm"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="kPx-4k-qqe" firstAttribute="width" secondItem="8bC-Xf-vdC" secondAttribute="width" multiplier="0.57971" id="GNY-8f-pAS"/>
+                            <constraint firstItem="tkX-OG-ikB" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="40" id="Pcc-lh-NrT"/>
+                            <constraint firstItem="tkX-OG-ikB" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="XeV-yh-uQs"/>
+                            <constraint firstItem="kPx-4k-qqe" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="kPB-cs-erS"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="kPx-4k-qqe" secondAttribute="bottom" constant="50" id="rWb-SD-zU9"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                    <connections>
+                        <outlet property="firstImage" destination="tkX-OG-ikB" id="i7e-Ps-E19"/>
+                        <outlet property="secondImage" destination="6hs-JZ-GbU" id="DvD-dU-Ns4"/>
+                        <outlet property="slider" destination="J38-7P-y0k" id="OOK-z8-ZNL"/>
+                        <outlet property="sliderWrapperView" destination="kPx-4k-qqe" id="JDx-38-9CV"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+                <rotationGestureRecognizer id="2tz-XH-sWU">
+                    <connections>
+                        <action selector="rotationGestureAction:" destination="BYZ-38-t0r" id="5A7-bd-DnX"/>
+                    </connections>
+                </rotationGestureRecognizer>
+            </objects>
+            <point key="canvasLocation" x="139" y="115"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="iphone_11" width="882" height="1058"/>
+        <image name="iphone_xr" width="940" height="1112"/>
+        <image name="right_arrow" width="225" height="225"/>
+    </resources>
+</document>
