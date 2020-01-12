@@ -20,6 +20,7 @@ Team C - NewsApp - [Github repo](https://github.com/SwiftFMI/2019_prj_NewsApp)
 |-----|----:| ---|
 |61990||Стефан Ламбов|
 |81770|[gospodinove](https://github.com/gospodinove)|Emanuil Gospodinov|
+|81908|[ognyanstoimenov](https://github.com/ognyanstoimenov)| Огнян Стоименов|
 
 Team D - iOSCourseApp - [Github repo](https://github.com/SwiftFMI/2019_prj_iOSCourseApp)
 
@@ -36,15 +37,17 @@ Team E - GameLoggerApp - [Github repo](https://github.com/SwiftFMI/2019_prj_Game
 |-----|----:| ---|
 |81901|[Rynkx](https://github.com/Rynkx)|Dimitar Dimitrov|
 |62096||Стефан Георгиев|
-|81748|[JulietaIgnatova](https://github.com/JulietaIgnatova)|Julieta Ignatova |
+|81866||Nikola Vakarelski|
+
 
 Team F - CoachAssistantApp - [Github repo](https://github.com/SwiftFMI/2019_prj_CoachAssistantApp)
 
 | FN  | Github | Име|
 |-----|----:| ---|
 |81752||Dimitar Parapanov|
-|81866||Nikola Vakarelski|
+
 |45560||Miroslav Parapanov|
+|81748|[JulietaIgnatova](https://github.com/JulietaIgnatova)|Julieta Ignatova |
 
 Team G - MemeApp - [Github repo](https://github.com/SwiftFMI/2019_prj_MemeApp)
 
@@ -69,6 +72,6 @@ Team G - MemeApp - [Github repo](https://github.com/SwiftFMI/2019_prj_MemeApp)
 |6|62074| | |
 |7|81576| | |
 |8|81911| | |
-|9|81908|[ognyanstoimenov](https://github.com/ognyanstoimenov)| |
+|9|81908|[ognyanstoimenov](https://github.com/ognyanstoimenov)| Team C |
 |10|81684| | |
 |11|81877| | |
