@@ -27,7 +27,7 @@ Team D - iOSCourseApp - [Github repo](https://github.com/SwiftFMI/2019_prj_iOSCo
 | FN  | Github | Име|
 |-----|----:| ---|
 |71754|[TsvetoslavVasev](https://github.com/TsvetoslavVasev)|Цветослав Васев|
-|71803||Виолета Илиева|
+|71803|[VioletaIlieva] (https://github.com/VioletaIlieva)|Виолета Илиева|
 |81524|[demschoy](https://github.com/demschoy)|Demetra Staykova|
 
 
@@ -36,17 +36,17 @@ Team E - GameLoggerApp - [Github repo](https://github.com/SwiftFMI/2019_prj_Game
 | FN  | Github | Име|
 |-----|----:| ---|
 |81901|[Rynkx](https://github.com/Rynkx)|Dimitar Dimitrov|
-|62096||Стефан Георгиев|
-|81866||Nikola Vakarelski|
+|62096|[StefanG97](https://github.com/StefanG97)|Стефан Георгиев|
+|81866|токазал се |Nikola Vakarelski|
+|81576|[Kornazov](https://github.com/Kornazov)|Kornazov|
 
 
 Team F - CoachAssistantApp - [Github repo](https://github.com/SwiftFMI/2019_prj_CoachAssistantApp)
 
 | FN  | Github | Име|
 |-----|----:| ---|
-|81752||Dimitar Parapanov|
-
-|45560||Miroslav Parapanov|
+|81752|[mmitkoo](https://github.com/mmitkoo)|Dimitar Parapanov|
+|45560|[miroslavpar](https://github.com/miroslavpar)|Miroslav Parapanov|
 |81748|[JulietaIgnatova](https://github.com/JulietaIgnatova)|Julieta Ignatova |
 
 Team G - MemeApp - [Github repo](https://github.com/SwiftFMI/2019_prj_MemeApp)
@@ -70,8 +70,8 @@ Team G - MemeApp - [Github repo](https://github.com/SwiftFMI/2019_prj_MemeApp)
 |4|62323| | |
 |5|44860| | | 
 |6|62074| | |
-|7|81576| | |
+|7|81576| https://github.com/Kornazov| |
 |8|81911| | |
-|9|81908|[ognyanstoimenov](https://github.com/ognyanstoimenov)| Team C |
+|9|81908|[ognyanstoimenov](https://github.com/ognyanstoimenov)| отказал се |
 |10|81684| | |
 |11|81877| | |
