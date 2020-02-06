@@ -20,7 +20,7 @@ Team C - NewsApp - [Github repo](https://github.com/SwiftFMI/2019_prj_NewsApp)
 |-----|----:| ---|
 |61990||Стефан Ламбов|
 |81770|[gospodinove](https://github.com/gospodinove)|Emanuil Gospodinov|
-|81908|[ognyanstoimenov](https://github.com/ognyanstoimenov)| Огнян Стоименов|
+|62081|| Victoria Tsvetanova |
 
 Team D - iOSCourseApp - [Github repo](https://github.com/SwiftFMI/2019_prj_iOSCourseApp)
 
