@@ -27,7 +27,7 @@ Team D - iOSCourseApp - [Github repo](https://github.com/SwiftFMI/2019_prj_iOSCo
 | FN  | Github | Име|
 |-----|----:| ---|
 |71754|[TsvetoslavVasev](https://github.com/TsvetoslavVasev)|Цветослав Васев|
-|71803|[VioletaIlieva] (https://github.com/VioletaIlieva)|Виолета Илиева|
+|71803|[VioletaIlieva](https://github.com/VioletaIlieva)|Виолета Илиева|
 |81524|[demschoy](https://github.com/demschoy)|Demetra Staykova|
 
 
@@ -37,7 +37,7 @@ Team E - GameLoggerApp - [Github repo](https://github.com/SwiftFMI/2019_prj_Game
 |-----|----:| ---|
 |81901|[Rynkx](https://github.com/Rynkx)|Dimitar Dimitrov|
 |62096|[StefanG97](https://github.com/StefanG97)|Стефан Георгиев|
-|81866|токазал се |Nikola Vakarelski|
+|81866|отказал се |Nikola Vakarelski|
 |81576|[Kornazov](https://github.com/Kornazov)|Kornazov|
 
 
